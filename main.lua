@@ -10,4 +10,4 @@ background.y = display.contentCenterY
 
 local platform = display.newImageRect( "platform.png", 300, 50 )
 platform.x = display.contentCenterX
-platform.y = display.contentHeight - 25
+platform.y = display.contentHeight - 45
